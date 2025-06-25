@@ -1,0 +1,6 @@
+name = "oauth-redirect-demo"
+main = "worker.js"
+compatibility_date = "2025-06-25"
+
+[vars]
+# You can add environment variables here if needed
