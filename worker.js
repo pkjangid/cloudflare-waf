@@ -185,16 +185,7 @@ export default {
                 <li><i class="fas fa-check-circle"></i> Domain Validation</li>
               </ul>
 
-              <div class="info">
-                <h3><i class="fas fa-lightbulb"></i> For Your Client:</h3>
-                <p>This demo shows <strong>Cloudflare can replace Akamai</strong> for OAuth redirects with:</p>
-                <ul>
-                  <li><i class="fas fa-dollar-sign"></i> Free of cost</li>
-                  <li><i class="fas fa-bolt"></i> Faster setup</li>
-                  <li><i class="fas fa-equals"></i> Same functionality</li>
-                  <li><i class="fas fa-wrench"></i> Easier management</li>
-                </ul>
-              </div>
+              
             </div>
           </body>
         </html>
